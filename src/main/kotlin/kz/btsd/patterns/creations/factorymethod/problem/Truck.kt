@@ -1,4 +1,4 @@
-package kz.btsd.patterns.creations.factorymethod
+package kz.btsd.patterns.creations.factorymethod.problem
 
 class Truck {
     fun deliver() {
