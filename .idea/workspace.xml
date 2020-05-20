@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="922d09c3-77a7-4384-a775-443729044c72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kz/btsd/patterns/creations/factorymethod/problem/App.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kz/btsd/patterns/creations/factorymethod/problem/Logistic.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kz/btsd/patterns/creations/factorymethod/problem/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kz/btsd/patterns/creations/factorymethod/solution/App.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kz/btsd/patterns/creations/factorymethod/solution/Logistic.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kz/btsd/patterns/creations/factorymethod/solution/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kz/btsd/patterns/creations/factorymethod/solution/RoadLogistic.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kz/btsd/patterns/creations/factorymethod/solution/Transport.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kz/btsd/patterns/creations/factorymethod/solution/Truck.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/refactoring.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kz/btsd/patterns/creations/factorymethod/RoadLogistic.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kz/btsd/patterns/creations/factorymethod/Truck.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kz/btsd/patterns/creations/factorymethod/problem/Truck.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kz/btsd/patterns/creations/factorymethod/problem/Logistic.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kz/btsd/patterns/creations/factorymethod/problem/Logistic.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +104,8 @@
       <option name="presentableId" value="Default" />
       <updated>1589976048837</updated>
       <workItem from="1589976051102" duration="389000" />
-      <workItem from="1589980389876" duration="2249000" />
+      <workItem from="1589980389876" duration="3164000" />
+      <workItem from="1589984326843" duration="829000" />
     </task>
     <servers />
   </component>
@@ -142,30 +119,30 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="608" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1589982204187">
+    <state x="608" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1589983122410">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="608" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1589982204187" />
+    <state x="608" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1589983122410" />
     <state x="563" y="310" width="571" height="429" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1589981735055">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="563" y="310" width="571" height="429" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1589981735055" />
-    <state width="1638" height="334" key="GridCell.Tab.0.bottom" timestamp="1589982828798">
+    <state width="1638" height="334" key="GridCell.Tab.0.bottom" timestamp="1589984159955">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="334" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1589982828798" />
-    <state width="1638" height="334" key="GridCell.Tab.0.center" timestamp="1589982828797">
+    <state width="1638" height="334" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1589984159955" />
+    <state width="1638" height="334" key="GridCell.Tab.0.center" timestamp="1589984159954">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="334" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1589982828797" />
-    <state width="1638" height="334" key="GridCell.Tab.0.left" timestamp="1589982828796">
+    <state width="1638" height="334" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1589984159954" />
+    <state width="1638" height="334" key="GridCell.Tab.0.left" timestamp="1589984159953">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="334" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1589982828796" />
-    <state width="1638" height="334" key="GridCell.Tab.0.right" timestamp="1589982828797">
+    <state width="1638" height="334" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1589984159953" />
+    <state width="1638" height="334" key="GridCell.Tab.0.right" timestamp="1589984159955">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="334" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1589982828797" />
+    <state width="1638" height="334" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1589984159955" />
     <state x="428" y="275" key="IDE.errors.dialog" timestamp="1589980602407">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
