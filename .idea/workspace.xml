@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="922d09c3-77a7-4384-a775-443729044c72" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kz/btsd/patterns/creations/factorymethod/problem/Logistic.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kz/btsd/patterns/creations/factorymethod/problem/Logistic.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kz/btsd/patterns/creations/factorymethod/own/solution/App.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kz/btsd/patterns/creations/factorymethod/own/solution/EmailNotifier.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kz/btsd/patterns/creations/factorymethod/own/solution/EmailSender.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kz/btsd/patterns/creations/factorymethod/own/solution/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kz/btsd/patterns/creations/factorymethod/own/solution/Notifier.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kz/btsd/patterns/creations/factorymethod/own/solution/SmsNotifier.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kz/btsd/patterns/creations/factorymethod/own/solution/SmsSender.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +29,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -41,7 +52,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/kotlin/kz/btsd/patterns/creations/factorymethod/own/solution" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -52,14 +63,18 @@
       <recent name="kz.btsd.patterns.creations.factorymethod.problem" />
       <recent name="kz.btsd.patterns.creations.factorymethod.goods" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/kz/btsd/patterns/creations/factorymethod/own/solution" />
+    </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="kz.btsd.patterns.creations.factorymethod.own.solution" />
       <recent name="kz.btsd.patterns.creations.factorymethod.solution" />
     </key>
     <key name="CreateKotlinClassDialog.RecentsKey">
       <recent name="kz.btsd.patterns.creations.factorymethod.solution" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MainKt (1)">
+  <component name="RunManager" selected="Kotlin.MainKt (2)">
     <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="refactoring-guru.main" />
       <option name="VM_PARAMETERS" />
@@ -68,6 +83,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="kz.btsd.patterns.creations.factorymethod.solution.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="refactoring-guru.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="kz.btsd.patterns.creations.factorymethod.own.solution.MainKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,6 +116,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainKt (2)" />
         <item itemvalue="Kotlin.MainKt (1)" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
